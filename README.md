@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-🎓 I'm a Computer Science Engineering student at **NIT Srinagar** (currently in my 4th semester).  
+🎓 I'm a Computer Science Engineering student at **NIT Srinagar** (currently in my 6th semester).  
 💻 I love building software and tinkering with tech – whether it's backend, frontend, or game dev.  
 
 ---
