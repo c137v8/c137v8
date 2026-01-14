@@ -4,6 +4,7 @@ Computer Science Engeerning undergrad at National Institute of Technology, Srina
 - Web devlopement
 - AI/ML
 - Data Structures and Algorithm
+- App developement
 - Building games and interactive platforms
 ## Languages
 - C++
