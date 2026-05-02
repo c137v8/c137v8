@@ -1,4 +1,4 @@
-# Hi, I am Ibrahim
+# I am Ibrahim
 Computer Science Engeerning undergrad at National Institute of Technology, Srinagar.
 ## Skills
 - Web devlopement
@@ -9,11 +9,11 @@ Computer Science Engeerning undergrad at National Institute of Technology, Srina
 ## Languages
 - C++
 - Python
+- Java
 - Javascript
 ## Frameworks
 - Nextjs,
 - Node.js
-- Express
 - MERN/MEAN stack
 ---
 Connect with me on Linkedin :D
