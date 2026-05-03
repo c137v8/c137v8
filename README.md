@@ -1,5 +1,5 @@
 # I am Ibrahim
-Computer Science Engeerning undergrad at National Institute of Technology, Srinagar. 
+Computer Science Engeerning student at National Institute of Technology. 
 ## Skills
 - Web devlopement
 - Linux
